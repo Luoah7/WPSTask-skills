@@ -6,7 +6,7 @@
 
 任务，是责任落地的地方。
 
-本仓库把 WPS 任务的责任体系沉淀成可直接使用的 Agent Skill——让 Claude Code、Cursor、OpenClaw 等主流 AI Agent 帮你把一句话说成能推进的事，把交付物核对到能验收。
+本仓库把 WPS 任务的责任体系沉淀成可直接使用的 Agent Skill——让 WPS 生态中的 Agent WPS Comate，以及 Claude Code、Cursor、OpenClaw 等主流 AI Agent，帮你把一句话说成能推进的事，把交付物核对到能验收。
 
 **不买 WPS 任务也能用。** 每个 Skill 在没有任何产品连接的环境下完整可用；连上之后，能力延伸到读写真实任务。
 
@@ -41,7 +41,13 @@
 
 一个会编内容的 Agent，比空表单更糟——它消耗信任，却不产出信息。
 
-# 在 Claude Code、Cursor 中使用
+# 在 WPS Comate、Claude Code、Cursor 中使用
+
+## WPS Comate
+
+WPS Comate 是 WPS 生态中的 Agent 入口，也是本仓库优先对接的宿主。两个 Skill 可作为 Comate 公共 Skill 或团队能力使用，让任务定义与交付验收在 WPS 工作场景中直接发生。
+
+当前仓库先提供完整的 Skill 能力与标准目录结构，WPS 任务数据连接、账号授权和生产写入能力仍按 Comate 接入协议推进。
 
 ## 直接安装
 
