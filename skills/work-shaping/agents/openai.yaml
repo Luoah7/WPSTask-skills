@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPS 任务 · 工作成型"
+  short_description: "把模糊表达整理成可执行任务，并检查责任、进度和验收缺口"
+  default_prompt: "使用 $work-shaping 把这段会议纪要整理成责任明确、可直接推进的任务清单。"

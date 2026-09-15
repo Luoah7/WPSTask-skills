@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPS 任务 · 交付验收"
+  short_description: "逐条对照完成标准核验交付物，给出证据、缺口和通过或退回建议"
+  default_prompt: "使用 $delivery-review 对照完成标准验收这份交付物，并指出可定位的证据和缺口。"
